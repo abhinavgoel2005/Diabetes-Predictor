@@ -1,3 +1,4 @@
+Diabetes Prediction 
 This project focuses on predicting the likelihood of diabetes in patients using machine learning techniques, specifically the Logistic Regression algorithm. It is built on the Pima Indians Diabetes Dataset, which contains health-related features collected from female patients of Pima Indian heritage aged 21 and above.
 
 The main objective is to develop a supervised learning model that can accurately classify whether an individual is diabetic based on parameters such as glucose level, BMI, insulin, age, pregnancies, and blood pressure.
